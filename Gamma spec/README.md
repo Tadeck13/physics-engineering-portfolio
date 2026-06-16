@@ -1,4 +1,4 @@
-# Project 01: γ-Ray Spectroscopy & NaI(Tl) Detector Characterization
+# γ-Ray Spectroscopy & NaI(Tl) Detector Characterization
 
 > **Relevance to Industry:** Directly applicable to prompt γ-ray activation analysis (PGAA) pipelines, NORM screening systems, and nuclear materials characterization instrumentation (e.g., Chrysos prompt γ-ray assay systems).
 
