@@ -31,7 +31,7 @@ NaI(Tl) Crystal (1.5" × 1.5") ──→ PMT (10-stage, +900 V bias)
 | MCA Range | 1024 channels | Dynamic range: 0 – ~3.4 MeV |
 | Minimum counts/peak | 2000 | Required for Poisson-statistical significance |
 
-![Gaussian fit — ¹³⁷Cs 661.66 keV photopeak](figures/137Cs_gaussian_fit.png)
+![Gaussian fit — ¹³⁷Cs 661.66 keV photopeak](figures/137Cs.png)
 
 ---
 
