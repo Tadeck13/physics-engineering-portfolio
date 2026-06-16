@@ -1,4 +1,4 @@
-# Project 03: PEPT Spatial Resolution — Minimum Trackable Circle Radius
+# PEPT Spatial Resolution — Minimum Trackable Circle Radius
 
 > **Relevance to Industry:** Directly informs the minimum spatial scale measurable by PEPT-based particle tracking systems deployed in froth flotation, turbulent flow characterization, and process engineering at iThemba LABS. Establishes hard spatial limits for the Birmingham algorithm on the Siemens ECAT HR++ scanner before new experimental campaigns are commissioned.
 
