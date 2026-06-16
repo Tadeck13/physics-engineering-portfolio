@@ -70,7 +70,7 @@ Raw MCA spectrum (.txt, 1024 ch × counts)
 
 ---
 
-## Engineering Insight — The "Hero" Moment
+## Insights
 
 **Problem:** The calibration intercept `b = +23.21 channels` is physically significant — it means **channel zero ≠ zero energy**. Applied naïvely (slope only), this offset introduces a **~72 keV systematic error** on every energy measurement (`23.21 / 0.32 ≈ 72.5 keV`).
 
