@@ -66,7 +66,7 @@ Raw MCA spectrum (.txt, 1024 ch × counts)
 
 **Resolution trend confirmed:** `R ∝ 1/√Eγ` across the full 88 – 1332 keV range — consistent with Poisson statistics governing scintillation photon yield.
 
-![Energy calibration curve](figures/Energy_calibration_curve.png)
+![Energy calibration curve](figures/energy_calibration_curve.png)
 
 ---
 
@@ -88,7 +88,7 @@ Raw MCA spectrum (.txt, 1024 ch × counts)
 
 A full uncertainty budget propagating σ_m and σ_b from the calibration covariance matrix is required before a definitive identification can be made.
 
-![Unknown source Gaussian fit](figures/unknown_source_gaussian_fit.png)
+![Unknown source Gaussian fit](figures/Unknown_source.png)
 
 ---
 
