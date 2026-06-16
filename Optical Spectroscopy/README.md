@@ -80,7 +80,7 @@ All four lines agree with NIST within 3 Å after offset correction — well with
 
 ---
 
-## Engineering Insight — The "Hero" Moment
+## Insights
 
 **The uncertainty budget exposes a factor-of-10 hierarchy: calibration dominates everything else.**
 
