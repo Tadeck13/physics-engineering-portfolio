@@ -66,7 +66,7 @@ Raw MCA spectrum (.txt, 1024 ch × counts)
 
 **Resolution trend confirmed:** `R ∝ 1/√Eγ` across the full 88 – 1332 keV range — consistent with Poisson statistics governing scintillation photon yield.
 
-![Energy calibration curve](figures/energy_calibration_curve.png)
+![Energy calibration curve](figures/Energy_calibration_curve.png)
 
 ---
 
