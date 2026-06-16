@@ -97,7 +97,7 @@ At A = 0.10 mm both uncertainties are **3–7× larger** than at A ≥ 0.50 mm, 
 
 ---
 
-## Engineering Insight — The "Hero" Moment
+## Insights
 
 **The spatial resolution floor and why it cannot be beaten with the Birmingham algorithm:**
 
