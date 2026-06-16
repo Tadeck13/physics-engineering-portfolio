@@ -73,7 +73,7 @@ The log-scale plot makes the key features immediately visible: Range 4 (red) dec
 
 ---
 
-## Engineering Insight — The "Hero" Moment
+## Insight
 
 ### Part A: Calibration Failure Diagnosis
 
