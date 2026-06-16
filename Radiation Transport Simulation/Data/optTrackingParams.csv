@@ -1,0 +1,11 @@
+# Optimal Tracking Parameters when using the Birmingham algorithm.  Fit of deviations 
+# performed with a skew Gaussian.  I'd suggest you save the uncertainties in the fit 
+# parameters as well
+radius (mm), SS1, fopt, mean (mm), standard deviation (mm), L (hz)
+0.1, 31, 0.10, 0.89578191, 1.18097988, 967
+0.5, 110, 0.21, 0.35032464, 0.46006676, 964
+1.0, 160, 0.21, 0.27559049, 0.39806584, 956
+2.0, 210, 0.22, 0.26290213, 0.30729421, 938
+3.0, 230, 0.22, 0.20710370, 0.33442339, 946
+4.0, 250, 0.23, 0.21565146, 0.31331561, 920
+5.0, 260, 0.23, 0.20398296, 0.29981344, 913
