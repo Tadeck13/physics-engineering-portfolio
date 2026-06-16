@@ -87,7 +87,7 @@ This **cannot contain the ²⁸Al signature at 1779 keV** — the primary activa
 
 **Diagnostic signature:** A correct calibration for 0–3 MeV in 2048 channels should yield slope ≈ 1.5 keV/channel. The factor-of-14 discrepancy (`0.11 vs 1.5 keV/ch`) is a reliable detector configuration alarm.
 
-![Energy calibration curve — wrong calibration E = 0.11C + 146.62](figures/Energy_cal.png)
+![Energy calibration curve — wrong calibration E = 0.11C + 146.62](figures/Energycal.png)
 
 The figure above is the actual calibration produced in this experiment. Note that the y-axis spans only 125–300 keV despite the calibration sources reaching 1332 keV — the entire 1173 keV ⁶⁰Co peak and the 1779 keV ²⁸Al signature are compressed outside the visible energy window. This is the visual proof of the gain misconfiguration.
 
