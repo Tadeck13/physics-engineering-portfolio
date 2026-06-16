@@ -1,0 +1,3 @@
+Known energy (keV)	Channel	u(Channel)
+1332.49	395.03	0.42
+356.01	29.12	0.20
