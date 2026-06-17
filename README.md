@@ -1,4 +1,4 @@
-# Physics Engineering Portfolio
+# Experimental and Research Portfolio
 
 **Tadeck Jones** · BSc Physics & Astrophysics, University of Cape Town · MeASURe Research Unit  
 *Experimental Nuclear & Radiation Physics | Scientific Instrumentation | Scientific Python*
