@@ -186,11 +186,11 @@ P05  Dominant frequency (measured)    :  0.00337 Hz                     [expecte
 
 ## Contact
 
-**Tadeck Jones**  
-Department of Physics, University of Cape Town  
-MeASURe (Metrological and Applied Sciences University Research Unit)  
+**Tadeck Jones**
 
-*This portfolio was prepared as part of PHY3004W laboratory and research work at UCT (2024).*
+[LinkedIn](www.linkedin.com/in/tadeckjones) · [Email](tadeckjones13@gmail.com) · [GitHub](https://github.com/Tadeck13)
+
+*Work completed as part of laboratory and research at the Department of Physics, University of Cape Town (2024).*
 
 ---
 
