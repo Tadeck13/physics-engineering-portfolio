@@ -70,7 +70,7 @@ In each case, the standard "improve the fit" instinct would have been wasted eff
 
 ```
 Language  : Python 3.11
-Libraries : NumPy · SciPy (curve_fit, fft, interp1d) · Matplotlib
+Libraries : NumPy · SciPy (curve_fit, fft, interp1d) · Matplotlib · Pandas ·
 Simulation: GATE (Geant4 Application for Tomographic Emission), 50-core parallel
 Fitting   : Symmetric Gaussian · Skew Gaussian · Weighted linear regression (WLS)
             Linearised exponential decay · FFT peak sub-bin fitting
