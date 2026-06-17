@@ -11,11 +11,11 @@
 
 | # | Project | Technique | Key Result | Agreement with Reference |
 |---|---------|-----------|------------|--------------------------|
-| [01](./01_gamma_ray_spectroscopy/) | **γ-Ray Spectroscopy** | NaI(Tl) + Gaussian peak fitting | 7.0% energy resolution @ 661.66 keV | ✅ Within manufacturer spec (≤ 8.5%) |
-| [02](./02_neutron_activation_analysis/) | **Neutron Activation Analysis** | AmBe irradiation + linearised WLS decay | t½ = 173 ± 9 s (²⁸Al); 462 ± 31 s (²⁷Mg) | ✅ Consistent with ²⁸Al (134.7 s), ²⁷Mg (567.6 s) |
-| [03](./03_pept_spatial_resolution/) | **PEPT Spatial Resolution** | GATE Monte Carlo + skew Gaussian | μ_δ(R) = 0.21 mm; breakdown below A = 0.5 mm | ✅ Matches Leadbeater et al. ~0.5 mm limit |
-| [04](./04_balmer_spectroscopy/) | **Balmer Series / Rydberg Constant** | Optical spectroscopy + WLS | R = (1.09 ± 0.12) × 10⁷ m⁻¹ | ✅ 0.6% from NIST value |
-| [05](./05_angstrom_thermal_diffusivity/) | **Thermal Diffusivity (Ångström)** | Periodic heating + FFT phase analysis | D = (3.13 ± 0.31) × 10⁻⁵ m²/s | ✅ Matches Wolff (2016) to 0.5σ |
+| [01](./gamma_ray_spectroscopy/) | **γ-Ray Spectroscopy** | NaI(Tl) + Gaussian peak fitting | 7.0% energy resolution @ 661.66 keV | ✅ Within manufacturer spec (≤ 8.5%) |
+| [02](./neutron_activation_analysis/) | **Neutron Activation Analysis** | AmBe irradiation + linearised WLS decay | t½ = 173 ± 9 s (²⁸Al); 462 ± 31 s (²⁷Mg) | ✅ Consistent with ²⁸Al (134.7 s), ²⁷Mg (567.6 s) |
+| [03](./pept_spatial_resolution/) | **PEPT Spatial Resolution** | GATE Monte Carlo + skew Gaussian | μ_δ(R) = 0.21 mm; breakdown below A = 0.5 mm | ✅ Matches Leadbeater et al. ~0.5 mm limit |
+| [04](balmer_spectroscopy/) | **Balmer Series / Rydberg Constant** | Optical spectroscopy + WLS | R = (1.09 ± 0.12) × 10⁷ m⁻¹ | ✅ 0.6% from NIST value |
+| [05](./angstrom_thermal_diffusivity/) | **Thermal Diffusivity (Ångström)** | Periodic heating + FFT phase analysis | D = (3.13 ± 0.31) × 10⁻⁵ m²/s | ✅ Matches Wolff (2016) to 0.5σ |
 
 ---
 
