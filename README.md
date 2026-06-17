@@ -188,7 +188,7 @@ P05  Dominant frequency (measured)    :  0.00337 Hz                     [expecte
 
 **Tadeck Jones**
 
-[LinkedIn](www.linkedin.com/in/tadeckjones) · [Email](tadeckjones13@gmail.com) · [GitHub](https://github.com/Tadeck13)
+[www.linkedin.com/in/tadeckjones](www.linkedin.com/in/tadeckjones) · [tadeckjones13@gmail.com](tadeckjones13@gmail.com) · [[GitHub](https://github.com/Tadeck13)](https://github.com/Tadeck13)
 
 *Work completed as part of laboratory and research at the Department of Physics, University of Cape Town (2024).*
 
